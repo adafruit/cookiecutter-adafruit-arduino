@@ -1,0 +1,5 @@
+{
+  "Device_Name" : "",
+  "PID" : "",
+  "__project_folder" : "Adafruit_{{ cookiecutter.Device_Name }}"
+}
