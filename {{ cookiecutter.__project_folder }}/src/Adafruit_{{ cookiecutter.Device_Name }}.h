@@ -7,6 +7,6 @@ class Adafruit_{{ cookiecutter.Device_Name | upper}} {
   public:
 
   private:
-}
+};
 
 #endif
